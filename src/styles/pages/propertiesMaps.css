@@ -1,0 +1,135 @@
+#page-map {
+    width: 100vw;
+    height: 100vh;
+
+    position: relative;
+    display: flex;
+
+}
+
+#page-map aside {
+    width: 440px;
+    background: linear-gradient(329.54deg, #4e4e4e 0%, #000000 100%);
+    padding: 30px;
+
+    display: flex;
+    flex-direction: column;
+
+    justify-content: space-between;
+
+}
+
+#page-map aside header img {
+    position: relative;
+    left: 45px;
+}
+
+#page-map aside h2 {
+    font-size: 24px;
+    font-weight: 600;
+
+    line-height: 42px;
+    margin-top: 64px;
+
+    text-align: match-parent;
+}
+
+#page-map aside p {
+    line-height: 28px;
+    margin-top: 24px;
+}
+
+#page-map aside footer {
+    display: flex;
+    flex-direction: column;
+
+    line-height: 24px;
+}
+
+#page-map aside footer strong {
+    font-weight: 800px;
+}
+
+#page-map aside .goBack {
+    width: 60px;
+    height: 60px;
+    background: #ff9a04;
+    color: #fff;
+
+    border-radius: 20px;
+
+    cursor: pointer;
+
+    margin-left: 110px;
+    padding: 15px;
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  #page-map aside .goBack:hover {
+      transition: 00.2s;
+      background: #ffaf37;
+  }
+
+#page-map .leaflet-container {
+    z-index: 5;
+}
+
+#page-map .create-properties {
+    position: absolute;
+
+    right: 40px;
+    bottom: 40px;
+
+    z-index: 10;
+
+    width: 64px;
+    height: 64px;
+    background: #ff9a04;
+    border-radius: 20px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+    transition: background-color 0.2s;
+}
+
+#page-map .create-properties:hover {
+    background: #ffaf37;
+}
+
+#page-map .map-popup .leaflet-popup-content-wrapper {
+    background: rgba(255, 255, 255, 0.9);
+    border-radius: 20px;
+    box-shadow: none;
+}
+
+#page-map .map-popup .leaflet-popup-content {
+    color: #ff9a04;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 8px 12px;
+
+    display: flex;
+    justify-content: space-between;;
+    align-items: center;
+}
+
+#page-map .map-popup .leaflet-popup-content a {
+    width: 40px;
+    height: 40px;
+    background: #ff9a04;
+    box-shadow: 17.2868px 27.6589px 41.4884px rgba(23, 142, 166, 0.16);
+    border-radius: 12px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#page-map .map-popup .leaflet-popup-tip-container {
+    display: none;
+}

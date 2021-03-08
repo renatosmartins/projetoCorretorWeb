@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2019 (64 Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="48.9058mm" height="48.906mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 947.43 947.44"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil1 {fill:#FEFEFE}
+    .fil0 {fill:url(#id0)}
+   ]]>
+  </style>
+  <radialGradient id="id0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.84706 -2.13984 -1.73755 -1.49981 1541 2568)" cx="104.22" cy="937.96" r="473.72" fx="104.22" fy="937.96">
+   <stop offset="0" style="stop-opacity:1; stop-color:#ECDF3D"/>
+   <stop offset="0.4" style="stop-opacity:1; stop-color:#EE3E7C"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#4355A3"/>
+  </radialGradient>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0" d="M947.43 473.73c0,261.62 -212.09,473.71 -473.71,473.71 -261.62,0 -473.72,-212.09 -473.72,-473.71 0,-261.63 212.09,-473.73 473.72,-473.73 261.62,0 473.71,212.09 473.71,473.73z"/>
+  <g id="_2699014232896">
+   <path class="fil1" d="M345.38 199.93c-88.61,0 -160.69,72.09 -160.69,160.69l0 226.19c0,88.6 72.09,160.69 160.69,160.69l256.68 0c88.6,0 160.69,-72.08 160.69,-160.69l0 -226.19c0,-88.61 -72.09,-160.69 -160.69,-160.69l-256.68 0zm256.68 593.49l-256.68 0c-113.92,0 -206.61,-92.69 -206.61,-206.6l0 -226.19c0,-113.92 92.68,-206.61 206.61,-206.61l256.68 0c113.91,0 206.6,92.69 206.6,206.61l0 226.19c0,113.91 -92.69,206.6 -206.6,206.6z"/>
+   <path class="fil1" d="M473.72 335.73c-76.1,0 -138,61.9 -138,138 0,76.09 61.9,137.99 138,137.99 76.09,0 137.99,-61.91 137.99,-137.99 0,-76.11 -61.9,-138 -137.99,-138zm0 321.9c-101.41,0 -183.91,-82.51 -183.91,-183.9 0,-101.43 82.5,-183.92 183.91,-183.92 101.41,0 183.91,82.5 183.91,183.92 0,101.39 -82.5,183.9 -183.91,183.9z"/>
+   <path class="fil1" d="M692.97 295.48c0,21.06 -17.08,38.15 -38.16,38.15 -21.08,0 -38.16,-17.09 -38.16,-38.15 0,-21.09 17.08,-38.17 38.16,-38.17 21.08,0 38.16,17.08 38.16,38.17z"/>
+  </g>
+ </g>
+</svg>
